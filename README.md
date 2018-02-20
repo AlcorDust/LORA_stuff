@@ -6,8 +6,8 @@ Questi sketch sono stati testati sul modulo Lora shield gentilmente messo a disp
 
 https://www.robotics-3d.com/component/virtuemart/Arduino/arduino-shield/5195-dragino-lora-shield
 
-Plug the shield, istall the library and start enjoying Lora!
-Collega lo shield, installa la libreria e decolla con Lora!
+Plug the shield, istall the included library RadioHead and start enjoying Lora!
+Collega lo shield, installa la libreria RadioHead inclusa e decolla con Lora!
 
 The max distance tested is 19 km, without obstacles.
 La distanza massima testata è 19 km, senza ostacoli nel mezzo.
